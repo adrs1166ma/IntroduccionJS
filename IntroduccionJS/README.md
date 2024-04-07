@@ -94,4 +94,26 @@ x = {} - es un objeto lo que esta antes, x
 objeto.x
 thi.x
 
+## 27.js
+la clase debe de estar en mayusculas
+clase - almacenar la forma que va a tener un objeto en especifico
+
+`Prototype`
+crea funciones que solo se utilizan en un objeto en especifico
+
+## 28.js
+declarar class
+reducir el prototype
+
+`herencia`
+extends
+ quiere decir hereda de
+
+`super`
+
+## 29.js
+`try - catch`
+
+## 30.js
+Promises
 
