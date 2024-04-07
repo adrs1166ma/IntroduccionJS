@@ -52,3 +52,9 @@ retornar valores de varias funciones
 20.js
 afuera del objeto se pone `=`
 y dentro `:`
+
+21.js
+los arrow funtions son como las funciones cambiandolas por flecha y se quita las llaves
+
+22.js 
+if, else if, else
