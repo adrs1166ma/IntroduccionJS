@@ -116,4 +116,50 @@ extends
 
 ## 30.js
 Promises
+a APIS
+
+## 31.js
+`document.querySelector`
+selecionar por ejm el id : #x...
+
+x`.addEventListener`
+registrar un elemento a un evento x
+
+`Notification.permission` 
+para verificar los permisos de notificaciones
+
+`Notification.requestPermission()`
+se necesita preguntar al usuario si desea activar ciertos permisos
+
+`.then()`
+leer permiso con promises
+
+`se activa y luego se manda la notificacion al reinciar`
+
+## 32.js
+Async / await
+
+`setTimeout`
+al final se le pone los segundos por milisegundos
+1000 = 1seg
+
+funcion asincrona : async
+que no necesariamente se ejecuta
+
+como pending - no se a cumplido aun pero no se a rechazado aun 
+
+similar a intentar, solo que son lineas que no se ejecutan hasta que la otra funcion se ejecute
+
+2 consultas async await
+para que empiecen al mismo tiempo, atravez de arrays - pregunta de entrevista
+
+## 33.js - empleados.json
+JSON - Lenguaje de transporte de datos
+obligatorio `comillas dobles` : ""
+
+fetch
+
+`#200 - la conexion del servidor o la peticion fue correcta - Ok`
+`#404 - no se encontro - Not Found`
+ya sea por .json lo bota como arreglos o como esta el archivo y si pones .txt se pone como texto
 
